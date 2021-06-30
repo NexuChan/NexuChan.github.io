@@ -4,6 +4,8 @@
 </style>
 # Dhiraagu throttle speed exploit
 
+# This eploit has been patched as of 30th june 2021. But who knows what will happen.
+
 ### So basically, dhiraagu users can use peer 2 peer services between each other using the full speed of the package they have. It mostly useful for file sharing ( which i'll be discussing mostly about in here ) and remote desktop services.
 ### I don't know if this is how they have the servers configued or not but who cares right?. They have us blocked with shitty bandwidth limits anyway. So why not just exploit this.
 ### As far as i know Malé, hulhumalé and Villigilli residents that use dhiraagu can use this exploit between each other. 
